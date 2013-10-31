@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>desc</key>
+		<string>&lt;p&gt;Learn how to distribute ad-hoc builds and integrate the TestFlight SDK into your iOS apps.&lt;p&gt;&lt;a href=\&quot;http://www.raywenderlich.com/48750/testflight-sdk-tutorial\&quot;&gt;Introduction to the TestFlight SDK&lt;/a&gt; is a post from: &lt;a href=\&quot;http://www.raywenderlich.com\&quot;&gt;Ray Wenderlich&lt;/a&gt;&lt;/p&gt;\n&lt;/p&gt;&lt;p&gt;The post &lt;a href=\&quot;http://www.raywenderlich.com/48750/testflight-sdk-tutorial\&quot;&gt;Introduction to the TestFlight SDK&lt;/a&gt; appeared first on &lt;a href=\&quot;http://www.raywenderlich.com\&quot;&gt;Ray Wenderlich&lt;/a&gt;.&lt;/p&gt;</string>
+		<key>tags</key>
+		<string>TAGS:  iPhone iOS sample code tutorial</string>
+		<key>title</key>
+		<string>Introduction to the TestFlight SDK</string>
+	</dict>
+</array>
+</plist>
